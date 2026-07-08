@@ -1,6 +1,6 @@
 # cipher-lab Dalton Kozak
 
-A self-directed study in classical cipher design and cryptanalysis.
+A self-directed study in classical cipher design and cryptanalysis. I have no formal training on the subject. I have not read any books on the subject or watched any videos. I just randomly though about designing something like this, because of a documentary. I wanted to see what I could discover on my own before I tried reading a book over the subject. This test took place over the course of about 36 hours.
 
 This repository grows out of an experiment: design a cipher by hand, have
 an adaptive adversary attack it, diagnose *why* it fell, fix the actual
