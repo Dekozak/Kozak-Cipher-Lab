@@ -73,12 +73,7 @@ tests). Written for Python 3.10+.
   happens to share the space residue mod m; the plaintext remains
   unmistakably readable, and a second pass would resolve the collisions.
 
-## Background reading
 
-Singh, *The Code Book* · Hoffstein, Pipher & Silverman, *An Introduction
-to Mathematical Cryptography* · Katz & Lindell, *Introduction to Modern
-Cryptography*. For hands-on practice: CryptoHack and the Cryptopals
-challenges.
 
 ## License
 
